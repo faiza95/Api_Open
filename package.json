@@ -1,0 +1,23 @@
+{
+  "name": "api_open",
+  "version": "1.0.0",
+  "description": "API OPEN",
+  "main": "playerShema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faiza95/Api_Open.git"
+  },
+  "author": "Fayza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faiza95/Api_Open/issues"
+  },
+  "homepage": "https://github.com/faiza95/Api_Open#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sqlite3": "^5.0.2"
+  }
+}
