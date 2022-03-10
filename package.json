@@ -1,23 +1,20 @@
 {
   "name": "api_open",
   "version": "1.0.0",
-  "description": "API OPEN",
-  "main": "playerShema.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "dev": "node_modules/.bin/nodemon --harmony -e js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/faiza95/Api_Open.git"
-  },
-  "author": "Fayza",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/faiza95/Api_Open/issues"
-  },
-  "homepage": "https://github.com/faiza95/Api_Open#readme",
   "dependencies": {
-    "express": "^4.17.3",
-    "sqlite3": "^5.0.2"
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4"
   }
 }

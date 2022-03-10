@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "firstName": "Tom",
+        "secondName": "Letem",
+        "age": 23,
+        "tshirtsNumber":20
+    },
+    {
+        "id": 2,
+        "firstName": "Fabian",
+        "secondName": "Loran",
+        "age": 25,
+        "tshirtsNumber":19
+    }
+]
